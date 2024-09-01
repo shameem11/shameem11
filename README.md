@@ -9,9 +9,6 @@ Welcome to my GitHub profile! I’m a passionate Data Scientist and Big Data Ana
 ## 🧠 Ongoing Projects
 - **Medical Bot (Generative AI Project)**: Developing a medical chatbot using Generative AI to assist users with medical queries and provide relevant information.
 - **Deep Learning Kidney Disease Classification Project**: Creating a deep learning model to predict kidney disease using ct-scan images , focusing on improving early detection rates.
-## 🌟 Featured Projects
-- **[Student Performance Prediction](https://github.com/shameem11/End-To-End-machine-learning-project-)**: A machine learning model built using Python, scikit-learn, pandas, and Flask to predict student performance based on various data inputs.
-- **[Olympics Dataset Visualization](https://public.tableau.com/app/profile/mohammed-shameem5013/vizzes)**: Interactive Tableau dashboards visualizing Olympic medal counts by country, sport, and year.
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mohammed-shameem-512522221/)
 - [GitHub](https://github.com/shameem11)
