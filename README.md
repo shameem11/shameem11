@@ -1,5 +1,9 @@
 # Hi there, I'm Mohammed Shameem! 👋
 
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I+love+AI+and+Machine+Learning)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I’m a passionate Data Scientist and Big Data Analyst with a focus on leveraging advanced technologies to solve real-world problems. My academic background and hands-on experience in Data Science have equipped me with the skills to tackle complex challenges and deliver innovative solutions.
 
 ## 🚀 About Me
@@ -20,7 +24,7 @@ Welcome to my GitHub profile! I’m a passionate Data Scientist and Big Data Ana
 
 ## 🌟 Featured Projects
 - **[Student Performance Prediction](https://github.com/shameem11/End-To-End-machine-learning-project)**: A machine learning model built using Python, scikit-learn, pandas, and Flask to predict student performance based on various data inputs.
-- **[Olympics Dataset Visualization](https://public.tableau.com/app/profile/mohammed.shameem5013/vizzes)**: Interactive Tableau dashboards visualizing Olympic medal counts by country, sport, and year.
+- **[Olympics Dataset Visualization](https://public.tableau.com/app/profile/mohammed-shameem5013/vizzes)**: Interactive Tableau dashboards visualizing Olympic medal counts by country, sport, and year.
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mohammed-shameem-512522221/)
