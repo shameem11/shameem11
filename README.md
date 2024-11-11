@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate Data Scientist and Big Data Ana
 - 📜 **Diploma**: Completed a Diploma in Data Science and Big Data Analytics from Luminar Techno-Lab, Kochi, India.
 - 💻 **Work Experience**: Data Scientist Trainee at Luminar Techno Lab where I developed machine learning models, conducted exploratory data analysis, and collaborated on big data projects.
 ## 🧠 Ongoing Projects
-- **Medical Bot (Generative AI Project)**: Developing a medical chatbot using Generative AI to assist users with medical queries and provide relevant information.
+- **SQL rag (Generative AI Project)**: Developing a Database rag chatbot using Generative AI to assist users can extract information from database using queries and provide relevant information.
 - **Deep Learning Kidney Disease Classification Project**: Creating a deep learning model to predict kidney disease using ct-scan images , focusing on improving early detection rates.
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mohammed-shameem-512522221/)
